@@ -1,3 +1,11 @@
+# erbooks micro-project
+
+Micro-project from Platzi Master, where I learned to make API calls with axios through a search-bar.
+
+## Deployment
+
+In Vercel: [urbooks](https://urbooks.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
