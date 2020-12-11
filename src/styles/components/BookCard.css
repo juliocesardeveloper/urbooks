@@ -1,0 +1,12 @@
+.card {
+  background-color: #C2F3FF;
+}
+
+.card:hover {
+  background-color: #EBFBFF;
+}
+
+.col-md-4 {
+  margin-right: 0px;
+}
+
